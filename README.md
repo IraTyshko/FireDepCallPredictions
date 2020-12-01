@@ -4,5 +4,5 @@ Task: Dispatching emergency calls in a city is challenging: There are large vari
 
 ### Solution
 
-Please find the solution to the problem in the jupyter notebook solution.ipynb, that is complemented by some other notebooks. 
+Please find the solution to the problem in the jupyter notebook **solution.ipynb**, that is complemented by some other notebooks. 
 The approach as well as the steps of solving the problem are described in this file. 
