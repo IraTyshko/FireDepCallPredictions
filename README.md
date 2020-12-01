@@ -7,4 +7,4 @@ Task: Dispatching emergency calls in a city is challenging: There are large vari
 Please find the solution to the problem in the jupyter notebook **solution.ipynb**, that is complemented by some other notebooks. 
 First please download the folder 'files' that contains data in a form of csv files and used queries from here: https://drive.google.com/drive/folders/14VWIk8yhpXOIOR6iZRPBZ_F0Rkg1ADm1?usp=sharing and place it inside the project folder. 
 
-The approach as well as the steps of solving the problem are described solution.ipynb. 
+The approach as well as the steps of solving the problem are described in solution.ipynb. 
